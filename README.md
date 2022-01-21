@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xiaoyu171222853
 - 👀 I’m interested in researching computer
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to   finding the one who can go through my life.
+- 💞️ I’m looking to   finding the one who can go through my life with me.
 - 📫 How to find me :my college： "山西工学院"
 
 <!---
