@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xiaoyu171222853
+- 👋 Hi, I’m xiaoyu
 - 👀 I’m interested in researching computer
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to   finding the one who can go through my life with me.
