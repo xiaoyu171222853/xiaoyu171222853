@@ -1,6 +1,6 @@
 - 👋 Hi, I’m xiaoyu
 - 👀 I’m interested in researching computer
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and I want to study e language.
 - 💞️ I’m looking to   finding the one who can go through my life with me.
 - 📫 How to find me :my college： "山西工学院"
 
