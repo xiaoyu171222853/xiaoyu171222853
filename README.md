@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and I want to study e language.
 - 💞️ I’m looking to   finding the one who can go through my life with me.
 - 📫 How to find me :my college： "山西工学院"
-
+-     Want to chat me?——please add me QQ:171222853
 <!---
 xiaoyu171222853/xiaoyu171222853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
